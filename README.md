@@ -58,17 +58,19 @@
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/foodieyou-user-open/assets/30916033/5eebdc00-d71a-46ba-9aae-49b78bdc2e10">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/foodieyou-user-open/assets/30916033/968fe275-59d6-425b-b127-a1c5497938d2">|
 
+.
+..
+...
+And Many More screen inside the Project
+
 
  
 # This project has Admin panel as well to upload all the images, Restraunts, Foods Listing etc.
 (For admin Panel contact me at: - chauhan.tarun897@gmail.com)
-
- 
-And Many More screen inside the Project
 
 ## © License 
 
 ```
 MIT License
 
-Copyright (c) 2023 Tarun Singh Chauhan
+Copyright (c) 2024 Tarun Singh Chauhan
