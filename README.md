@@ -1,8 +1,10 @@
 # FoodieYou User
 
 
-# doctorconnext
-# Flutter 3.3.0 Updated
+# FoodieYou use is project that work with firebase as backend.
+
+
+# Flutter 3.22.1 Updated
  
 
 ## 📱 Screenshots
@@ -18,9 +20,7 @@
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/foodieyou-user-open/assets/30916033/95e80580-a14b-49fe-b7b1-3ea2f905ece5">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/foodieyou-user-open/assets/30916033/c18e7696-d279-4a9f-8458-647ce9ab3f19">|
 
-
-![screenshot-1719220303700]()
-
+ 
 
 
 
@@ -60,10 +60,10 @@
 
 
  
-
+# This project has Admin panel as well to upload all the images, Restraunts, Foods Listing etc.
+(For admin Panel contact me at: - chauhan.tarun897@gmail.com)
 
  
-
 And Many More screen inside the Project
 
 ## © License 
