@@ -5,7 +5,16 @@
 
 
 # Flutter 3.22.1 Updated
- 
+
+ Features: - 
+ 1. Add food items to cart.
+ 2. Increase and Decrease item quanity.
+ 3. Fetch User location and address with Google Cloud Map API.
+ 4. Search Food Items.
+ 5. Favourite Foods items
+ 6. Profile Screen
+ 7. Food Order History view.
+ 8. Home scren to view the food categories.
 
 ## 📱 Screenshots
 
