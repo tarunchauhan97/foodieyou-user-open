@@ -3,6 +3,7 @@
 
 # FoodieYou use is project that work with firebase as backend.
 
+# This app had Admin panel to manage the restaurants items/ Foods/ Orders.
 
 # Flutter 3.22.1 Updated
 
